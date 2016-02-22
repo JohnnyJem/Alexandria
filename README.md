@@ -12,6 +12,4 @@ none
 Implemented:
 * AddedBarcode scanning functionality via library.
 * Handled internet-connectivity related crashes.
-* Added a widget to display the days football scores.
-* Added  content descriptions for all buttons.
-* Added support for layout mirroring.
+
